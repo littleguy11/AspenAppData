@@ -10,6 +10,7 @@ Category,Section,Range,Color,Image
 ,,,,
 ,,,,
 ,,,,
+,,,,
 Vinyl,Gallery,Premium Micro,Brazialian Oak,
 Vinyl,Gallery,Premium Micro,Brazialian Oak,
 Vinyl,Gallery,Premium Micro,Brazialian Oak,
@@ -227,3 +228,4 @@ Wood,Test,Still a test,Button,https://i.ibb.co/dSckPqq/Classic-oak16.jpg
 Wood,Specs,https://github.com/littleguy11/AspenAppData/blob/main/WoodSpecsWarranty/wood-spec.pdf,,
 Wood,Care,https://github.com/littleguy11/AspenAppData/blob/main/WoodSpecsWarranty/wood-care.pdf,,
 Wood ,Warranty,https://github.com/littleguy11/AspenAppData/blob/main/WoodSpecsWarranty/wood-warranty.pdf,,
+Wood,Ebrochure,button,https://github.com/littleguy11/AspenAppData/blob/main/WoodEBrochure/wood-brochure.pdf,
